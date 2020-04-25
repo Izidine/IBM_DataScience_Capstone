@@ -1,5 +1,6 @@
 <h1 align=center><font size = 6>Capstone Project - The Battle of Neighborhoods</font></h1>
 <h1 align=center><font size = 5>Which hotel to stay in New York?</font></h1>
+<h2 align=center><font size = 5>(COVID-19 Outbreak)</font></h2>
 
 ## 1. Introduction
 
