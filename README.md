@@ -10,7 +10,7 @@ Due to the outbreak of Coronavirus in the world and the growing cases presented 
 
 ### 1.2. Business Problem
 
-The quick way of COVID-19 contagion has proved to be a major challenge for front line professionals, so the WHO delegation intends to take all precautions, staying in a Hotel located in the County with major positive cases of COVID-19 in NY State (to address the pandemic), but closest (less than 1.5 KM) to hospitals for first aid purposes.
+The quick way of COVID-19 contagion has proved to be a major challenge for front line professionals, so the WHO delegation intends to take all precautions, staying in a Hotel located in the County with highest positive cases of COVID-19 in NY State (to address the pandemic), but closest (less than 1.5 KM) to hospitals for first aid purposes.
 
 ### 1.3. Data Sources
 
